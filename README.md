@@ -31,7 +31,7 @@ Experienced in cloud architecture, CI/CD automation, and container orchestration
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,java,bash,maven" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,ansible,jenkins" />
 </p>
 
 ---
