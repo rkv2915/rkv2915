@@ -1,6 +1,6 @@
 <h1 align="center">Rutvik Kothekar</h1>
 <p align="center">
-  <em>DevOps Engineer | Cloud & Automation Specialist</em>
+  <em>DevOps Engineer | Cloud Infrastructure & CI/CD</em>
 </p>
 
 <p align="center">
