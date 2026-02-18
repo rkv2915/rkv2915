@@ -1,26 +1,34 @@
 <h1 align="center">Rutvik Kothekar</h1>
 <p align="center">
-  DevOps Engineer | Cloud Infrastructure | CI/CD Automation
+  <em>DevOps Engineer | Cloud & Automation Specialist</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rkv2915">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rutvik-kothekar-2479871a1">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## 🔹 About Me
 
-DevOps Engineer with a strong focus on building scalable, secure, and automated cloud infrastructure.  
-Experienced in designing CI/CD pipelines, containerized deployments, and infrastructure as code.
+DevOps Engineer with a focus on building scalable, secure, and automated infrastructure.  
+Experienced in cloud architecture, CI/CD automation, and container orchestration.
 
-I specialize in:
-
-- Cloud-native architecture
-- Continuous Integration & Continuous Delivery
-- Infrastructure automation
-- Production-grade deployment strategies
-- Reliability and operational excellence
+- 🌐 Cloud: AWS  
+- 🚀 CI/CD: GitHub Actions, Jenkins  
+- 🐳 Containers: Docker, Kubernetes  
+- 📦 IaC: Terraform  
+- 🖥 Systems: Linux, Shell Scripting  
+- 🛠 Build Tools: Maven
 
 ---
 
-## Core Technologies
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,java,bash,maven" />
@@ -28,57 +36,34 @@ I specialize in:
 
 ---
 
-## DevOps Capabilities
+## 🏆 Featured Projects
 
-**Cloud Platforms**
-- AWS infrastructure provisioning
-- IAM and secure architecture practices
+### 📌 DevOps Demo
+[View Repository](https://github.com/rkv2915/DevOps-Demo)
 
-**CI/CD**
-- GitHub Actions
-- Jenkins pipeline automation
-
-**Containers & Orchestration**
-- Docker image creation and optimization
-- Kubernetes deployments and scaling
-
-**Infrastructure as Code**
-- Terraform-based infrastructure management
-- Version-controlled environments
-
-**Systems & Build**
-- Linux administration
-- Maven-based Java builds
-- Shell scripting for automation
+A demo showcase of CI/CD pipelines built with GitHub Actions and Docker image deployment practices.
 
 ---
 
-## Engineering Principles
+### 📌 Cloud Infrastructure Setup
+[View Repo](https://github.com/rkv2915/Cloud-Infrastructure)
 
-- Infrastructure as Code
-- Immutable deployments
-- Secure-by-default systems
-- Observability-driven operations
-- Continuous improvement culture
+Infrastructure as Code (Terraform) project for setting up AWS environments securely.
 
 ---
 
-## Currently Focused On
-
-- Kubernetes production architecture
-- Terraform modular design
-- AWS cost optimization
-- High availability systems
-
----
-
-## Connect With Me
-
-GitHub: https://github.com/rkv2915  
-LinkedIn: https://linkedin.com/in/rutvik-kothekar-2479871a1
-
----
+## 📫 Let’s Connect
 
 <p align="center">
-  Building reliable systems through automation.
+  <a href="https://linkedin.com/in/rutvik-kothekar-2479871a1">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/rkv2915">
+    <img src="https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white">
+  </a>
 </p>
+
+---
+
+> **Engineering dependable systems through automation and modern DevOps practices.**
+
