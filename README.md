@@ -1,82 +1,83 @@
-<h1 align="center">Hi 👋 I'm Rutvik</h1>
+<h1 align="center">Rutvik Kothekar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;CI%2FCD+Pipeline+Architect;Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;CI%2FCD+Pipeline+Architect;Infrastructure+as+Code+Advocate;Automation+First+Mindset" />
 </p>
 
 ---
 
-## ⚡ About Me
+## ⚡ Engineering Reliable Infrastructure Through Automation
 
-DevOps Engineer focused on building scalable, automated, and reliable infrastructure.  
-Experienced in cloud-native technologies, CI/CD automation, and infrastructure as code.
+DevOps Engineer focused on building scalable, secure, and production-grade cloud infrastructure.  
+Specialized in CI/CD automation, container orchestration, and infrastructure as code.
 
-I believe in:
+I work at the intersection of:
 
-- 🚀 Automating Everything
-- 🔐 Secure by Design
-- 📦 Immutable Infrastructure
-- 📊 Observability & Monitoring
-- ⚙️ Continuous Improvement
+- 🚀 Automation & Continuous Delivery  
+- ☁ Cloud Architecture  
+- 📦 Containerized Applications  
+- 🏗 Infrastructure as Code  
+- 🔐 Secure & Resilient Systems  
 
 ---
 
 ## 🛠 Core Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,java,bash" />
-
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,java,bash" />
 </p>
 
 ---
 
-## 🧱 DevOps Stack
+## 🧱 DevOps Capabilities
 
-| Category | Tools |
-|----------|--------|
-| ☁ Cloud | AWS |
-| 🐳 Containers | Docker |
-| ☸ Orchestration | Kubernetes |
-| 🔁 CI/CD | GitHub Actions / Jenkins |
-| 🏗 IaC | Terraform |
-| 📦 Build | Maven |
-| 🖥 OS | Linux |
-| 🔧 VCS | Git |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkv2915&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkv2915&theme=tokyonight&hide_border=true" height="170">
-</p>
+| Domain | Expertise |
+|--------|------------|
+| ☁ Cloud | AWS Infrastructure Design |
+| 🔁 CI/CD | GitHub Actions, Jenkins Pipelines |
+| 🐳 Containers | Dockerized Microservices |
+| ☸ Orchestration | Kubernetes Deployments |
+| 🏗 IaC | Terraform Infrastructure Provisioning |
+| 📦 Build Systems | Maven |
+| 🖥 Systems | Linux Administration |
+| 🔐 Security | IAM, Secure Deployment Practices |
 
 ---
 
-## 🎯 Current Focus
+## 🏗 Architecture Mindset
 
-- Advanced Kubernetes Deployments
-- Terraform Module Architecture
-- AWS Cost Optimization
-- Production-grade CI/CD Pipelines
+- Immutable Infrastructure
+- GitOps-based Deployments
+- Environment Standardization
+- Infrastructure Version Control
+- Automated Rollbacks & Zero Downtime Deployments
+- Monitoring & Observability Driven Operations
+
+---
+
+## 📚 Currently Advancing In
+
+- Kubernetes Production Architecture
+- Terraform Modular Design Patterns
+- AWS Cost Optimization Strategies
+- High Availability & Fault-Tolerant Systems
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="rutvik-kothekar-2479871a1" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/rkv2915" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://github.com/rkv2915" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rutvik-kothekar-2479871a1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>⚡ Engineering Reliability Through Automation ⚡</b>
+  <b>⚙ Automate. Optimize. Scale. 🚀</b>
 </p>
